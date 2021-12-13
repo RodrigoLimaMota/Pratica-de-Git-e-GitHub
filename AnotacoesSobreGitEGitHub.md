@@ -24,5 +24,7 @@ Plataforma de rede social para programadores. É um repositório remoto.
 ### Commit
 Ação de enviar diretórios/arquivos monitorado para um repositório central.
 
+### Estágios dos arquivos no git
+
 ![Ciclo de vida em um VCS ](./cicloArquivosGit.png)
 
