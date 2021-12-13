@@ -28,3 +28,8 @@ Ação de enviar diretórios/arquivos monitorado para um repositório central.
 
 ![Ciclo de vida em um VCS ](./cicloArquivosGit.png)
 
+- Untracked: O projeto não foi visto pelo git
+- Unmodified: O projeto está no repositório em estado de espera para ser alterado.
+- Modified: Quando o projeto é alterado é permitido adicioná-lo ao estado de Staged através do comando git add.
+- Staged: Quando o projeto é alterado é permitido adicioná-lo ao repositório central.
+
